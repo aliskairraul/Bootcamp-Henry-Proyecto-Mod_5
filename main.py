@@ -7,6 +7,8 @@ app = Dash(
     __name__, pages_folder="pages", use_pages=True, suppress_callback_exceptions=True
 )
 
+server = app.server
+
 app.layout = html.Div(
     [
         html.Div(
@@ -27,4 +29,4 @@ app.layout = html.Div(
 )
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=False)
