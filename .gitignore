@@ -1,0 +1,26 @@
+# Ignorar la carpeta del entorno virtual
+venv/
+
+# Ignorar las carpetas __pycache__ en todos los módulos
+__pycache__/
+
+# Ignorar archivos de configuración de Python
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de compilación
+build/
+dist/
+*.egg-info/
