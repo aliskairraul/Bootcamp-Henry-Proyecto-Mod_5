@@ -8,6 +8,12 @@ WORKDIR /app
 COPY requirements.txt requirements.txt
 COPY main.py main.py
 
+# Copiar las carpetas necesarias
+COPY pages/ pages/
+COPY assets/ assets/
+COPY components/ components/
+COPY data/ data/
+
 # Instalar las dependencias
 RUN pip install -r requirements.txt
 
@@ -16,3 +22,4 @@ EXPOSE 8080
 
 # Comando para ejecutar la aplicación
 CMD ["gunicorn", "--bind", "0.0.0.0:8080", "main:server"]
+
