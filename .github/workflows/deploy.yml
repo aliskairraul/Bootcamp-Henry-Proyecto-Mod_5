@@ -28,4 +28,4 @@ jobs:
         run: |
           git lfs install
           git remote add space https://huggingface.co/spaces/aliskairraul/aliskairraul-modulo-5
-          git push space main --force
+          git push https://aliskairraul:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/aliskairraul/aliskairraul-modulo-5 main --force
