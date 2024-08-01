@@ -27,5 +27,5 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           git lfs install
-          git remote add space https://huggingface.co/spaces/<TU_USUARIO>/<NOMBRE_DEL_SPACE>
+          git remote add space https://huggingface.co/spaces/aliskairraul/aliskairraul-modulo-5
           git push space main --force
