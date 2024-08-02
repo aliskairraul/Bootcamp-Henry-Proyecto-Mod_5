@@ -21,5 +21,5 @@ RUN pip install -r requirements.txt
 EXPOSE 8080
 
 # Comando para ejecutar la aplicación
-CMD ["gunicorn", "--bind", "0.0.0.0:8080", "main:server"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "main:server", "--log-level", "debug"]
 
