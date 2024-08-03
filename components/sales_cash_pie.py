@@ -25,7 +25,7 @@ def returned_cash_pie_component(data: pl.DataFrame, title: str) -> html.Div:
     }
 
     labels = ["N_America", "Japon", "Europa", "Otros"]
-    # Crear el gráfico de donut
+
     fig = go.Figure(
         data=[
             go.Pie(
@@ -43,7 +43,6 @@ def returned_cash_pie_component(data: pl.DataFrame, title: str) -> html.Div:
     )
 
     fig.update_layout(
-        # title=title,
         paper_bgcolor="rgba(0, 0, 0, 0)",
         font=dict(color="rgb(0, 0, 0)"),  # size=13
         margin=dict(t=0, b=0, l=0, r=0),

@@ -55,13 +55,8 @@ def returned_etario_component(df: pl.DataFrame) -> html.Div:
         yaxis_title="% de Habitantes",
         paper_bgcolor="rgba(0, 0, 0, 0)",
         font=dict(color="rgb(0, 0, 0)"),
-        # xaxis=dict(
-        #     tickmode="linear",
-        #     dtick=1,
-        # ),
         margin=dict(t=0, b=0, l=0, r=0),
         plot_bgcolor="rgba(0, 0, 0, 0)",
-        # showlegend=True,
         legend=dict(x=0.9, y=1),
     )
 
@@ -76,7 +71,6 @@ def returned_etario_component(df: pl.DataFrame) -> html.Div:
                 style={
                     "width": "41vw",
                     "height": "32vh",
-                    # "margin-top": "1 em",
                     "margin-left": "0.3em",
                     "margin-boton": "1.5em",
                 },

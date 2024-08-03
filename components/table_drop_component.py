@@ -22,7 +22,6 @@ def returned_drop_component(drop_options: pl.DataFrame) -> dcc.Dropdown:
                     "backgroundColor": "rgb(255, 255, 255)",
                     "fontSize": 14,
                     "color": "black",
-                    # "fontFamily": "Arial",
                 },
                 id="drop-down",
             ),

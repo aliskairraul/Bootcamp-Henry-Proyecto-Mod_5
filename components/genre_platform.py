@@ -31,14 +31,12 @@ def returned_platform_component(data: pl.DataFrame, title: str) -> html.Div:
     fig.update_yaxes(showgrid=False)
 
     fig.update_layout(
-        # xaxis_title="Generos con Data de Ventas",
         yaxis_title="Titulos Plataforma",
         paper_bgcolor="rgba(0, 0, 0, 0)",
         font=dict(color="rgb(0, 0, 0)"),
         xaxis=dict(
             tickmode="linear",
             dtick=1,
-            # tickfont=dict(size=font_tick_x)  # 12
         ),
         margin=dict(t=0, b=0, l=0, r=0),
         plot_bgcolor="rgba(0, 0, 0, 0)",
@@ -56,9 +54,7 @@ def returned_platform_component(data: pl.DataFrame, title: str) -> html.Div:
                 style={
                     "width": "17vw",
                     "height": "32vh",
-                    # "margin-top": "1 em",
                     "margin-left": "0.5em",
-                    # "margin-boton": "0.5em",
                 },
                 config={"displayModeBar": False},
             ),

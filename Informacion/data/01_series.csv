@@ -1,0 +1,59 @@
+Series Code,Series Name
+SE.PRM.ENRR,"Inscripción escolar, nivel primario (% bruto)"
+SM.POP.NETM,Migración neta
+NY.GNP.MKTP.PP.CD,"INB, PPA (a $ internacionales actuales)"
+TT.PRI.MRCH.XD.WD,Índice de términos netos de intercambio (2000 = 100)
+NY.GNP.PCAP.PP.CD,"INB per cápita, PPA (a $ internacionales actuales)"
+SL.UEM.TOTL.ZS,"Desempleo, total (% de la población activa total) (estimación modelado OIT)"
+IT.CEL.SETS.P2,Suscripciones a telefonía celular móvil (por cada 100 personas)
+EG.USE.ELEC.KH.PC,Consumo de energía eléctrica (kWh per cápita)
+EN.ATM.CO2E.PC,Emisiones de CO2 (toneladas métricas per cápita)
+NY.GDP.MKTP.CD,PIB (US$ a precios actuales)
+NY.GDP.MKTP.KD.ZG,Crecimiento del PIB (% anual)
+EG.USE.PCAP.KG.OE,Uso de energía (kg de equivalente de petróleo per cápita)
+NV.IND.TOTL.ZS,"Industria, valor agregado (% del PIB)"
+SP.DYN.TFRT.IN,"Tasa de fertilidad, total (nacimientos por cada mujer)"
+BX.TRF.PWKR.CD.DT,"Transferencias personales y remuneración de empleados, recibidos (balanza de pagos, US$ a precios actuales)"
+NE.EXP.GNFS.ZS,Exportaciones de bienes y servicios (% del PIB)
+NV.AGR.TOTL.ZS,"Agricultura, valor agregado (% del PIB)"
+SH.STA.BRTC.ZS,Nacimientos asistidos por personal de salud capacitado (% del total)
+SP.POP.1564.MA.IN,"Población entre 15 y 64 años de edad, hombres"
+IC.REG.DURS,Tiempo necesario para iniciar un negocio (días)
+NY.GNP.ATLS.CD,"INB, método Atlas (US$ a precios actuales)"
+GC.TAX.TOTL.GD.ZS,Recaudación impositiva (% del PIB)
+NE.IMP.GNFS.ZS,Importaciones de bienes y servicios (% del PIB)
+SL.UEM.TOTL.FE.ZS,"Desempleo, mujeres (% de la población activa femenina) (estimación modelado OIT)"
+AG.SRF.TOTL.K2,Superficie (kilómetros cuadrados)
+FS.AST.DOMS.GD.ZS,Crédito interno proporcionado por el sector financiero (% del PIB)
+SP.DYN.LE00.IN,"Esperanza de vida al nacer, total (años)"
+BX.KLT.DINV.CD.WD,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)"
+NY.GDP.DEFL.KD.ZG,"Inflación, índice de deflación del PIB (% anual)"
+TX.VAL.TECH.MF.ZS,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados)
+ER.H2O.FWTL.ZS,"Extracción anual de agua dulce, total (% de recursos internos)"
+SP.POP.65UP.TO,"Población de 65 años de edad y más, total"
+IQ.SCI.OVRL,Nivel general de la capacidad estadística (escala 0 - 100)
+DT.DOD.DECT.CD,"Deuda externa acumulada, total (DOD, US$ a precios actuales)"
+AG.LND.FRST.K2,Área selvática  (kilómetros cuadrados)
+ER.PTD.TOTL.ZS,Áreas protegidas terrestres y marinas (% del total de la superficie territorial)
+SE.ENR.PRSC.FM.ZS,Proporción de niñas con respecto a niños en educación primaria y secundaria (%)
+DT.ODA.ALLD.CD,Ayuda oficial neta para el desarrollo y oficial neta recibidas (US$ a precios actuales)
+SL.UEM.TOTL.MA.ZS,"Desempleo, varones (% de la población activa masculina) (estimación modelado OIT)"
+SE.SEC.ENRR,"Inscripción escolar, nivel secundario (% bruto)"
+SP.POP.1564.FE.IN,"Población entre 15 y 64 años de edad, mujeres"
+SL.TLF.TOTL.IN,"Población activa, total"
+SP.POP.0014.FE.IN,"Población entre 0 y 14 años de edad, mujeres"
+SP.POP.0014.MA.IN,"Población entre 0 y 14 años de edad, hombres"
+MS.MIL.XPND.GD.ZS,Gasto militar (% del PIB)
+DT.TDS.DECT.EX.ZS,"Total del servicio de la deuda (% de exportaciones de bienes, servicios e ingreso)"
+NE.GDI.TOTL.ZS,Formación bruta de capital (% del PIB)
+TG.VAL.TOTL.GD.ZS,Comercio de mercaderías (% del PIB)
+GC.REV.XGRT.GD.ZS,"Recaudación, excluidas las donaciones (% del PIB)"
+SE.PRM.CMPT.ZS,"Tasa de finalización de la educación de nivel primario, total (% del grupo etario correspondiente)"
+SH.DYN.MORT,"Tasa de mortalidad, menores de 5 años (por cada 1.000)"
+SL.TLF.TOTL.FE.ZS,"Población activa, mujeres (% de la población activa total)"
+SP.POP.65UP.FE.IN,"Población de 65 años de edad y más, mujeres"
+NY.GNP.PCAP.CD,"INB per cápita, método Atlas (US$ a precios actuales)"
+SP.POP.1564.TO,"Población entre 15 y 64 años de edad, total"
+SP.POP.0014.TO,"Población entre 0 y 14 años de edad, total"
+SP.DYN.CONU.ZS,Prevalencia de uso de métodos anticonceptivos (% de mujeres entre 15 y 49 años)
+SP.POP.65UP.MA.IN,"Población de 65 años de edad y más, hombres"

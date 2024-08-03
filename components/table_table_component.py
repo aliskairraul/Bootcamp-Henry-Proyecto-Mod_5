@@ -30,16 +30,12 @@ def returned_table_component(data: pl.DataFrame) -> html.Div:
                 sort_action="native",
                 page_size=10,
                 fixed_rows={"headers": True},
-                row_selectable="single",  # Permitir la selección de una sola fila
+                row_selectable="single",
                 selected_rows=[],
-                # page_action="none",
                 style_table={
                     "width": "100%",
                     "height": "80%",
-                    # "height": "30vh",
-                    # "overflowY": "auto",
                 },
-                # style_cell={"textAlign": "left"},
                 style_data_conditional=[
                     {
                         "if": {"column_id": "Ranking"},
@@ -64,8 +60,7 @@ def returned_table_component(data: pl.DataFrame) -> html.Div:
                     },
                 ],
                 style_cell={
-                    "height": "2em",  # Altura de la fila en unidades em
-                    # 'minWidth': '100px', 'width': '100px', 'maxWidth': '100px',
+                    "height": "2em",
                     "overflow": "hidden",
                     "textOverflow": "ellipsis",
                 },

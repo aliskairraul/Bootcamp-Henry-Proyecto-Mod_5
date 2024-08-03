@@ -26,7 +26,6 @@ def returned_bank_pib_component(data: pl.DataFrame) -> html.Div:
             go.Bar(
                 y=data["INB_ATLAS_PC"],
                 x=data["Zona"],
-                # marker_color="rgb(86, 85, 215)",
                 marker=dict(color=colores),
                 width=0.7,
                 hovertemplate=None,
