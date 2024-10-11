@@ -21,4 +21,5 @@ El proyecto integrador del Modulo 5 está compuesto de Varias Partes:
   - En esta carpeta se encuentra una pequeña presentación en Power Point sobre el análisis del Proyecto.
 - `TODO LO DEMAS`
   - Aplicación realizada con la Libreria Dahs de Python desplegada en la plataforma `Hugging Face`..
-  - https://huggingface.co/spaces/aliskairraul/aliskairraul-modulo-5
+  - Despliegue: https://huggingface.co/spaces/aliskairraul/aliskairraul-modulo-5
+  - Video: https://drive.google.com/file/d/14dqK5RIUp_ZPu-ajrrBETwR8n1APf7hH/view?usp=sharing
